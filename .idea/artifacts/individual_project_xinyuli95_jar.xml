@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="individual-project-xinyuli95:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/individual_project_xinyuli95_jar</output-path>
+    <root id="archive" name="individual-project-xinyuli95.jar">
+      <element id="module-output" name="individual-project-xinyuli95" />
+    </root>
+  </artifact>
+</component>
